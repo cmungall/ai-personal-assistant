@@ -1,0 +1,5 @@
+{
+  "name": "gogcli",
+  "description": "Skills for using gog (gogcli), a CLI for Google APIs (Gmail, Calendar, Tasks, Drive, Docs, Sheets, Contacts, Chat). Use this when the user asks to read or summarize emails/inbox, check calendar, list tasks, add a task, read a google doc, check drive, or any Google Workspace operation from the command line. Also use when working on GitHub Actions workflows that call gog.",
+  "version": "1.0.0"
+}

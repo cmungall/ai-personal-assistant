@@ -1,0 +1,17 @@
+{
+  "name": "ai-personal-assistant",
+  "owner": {
+    "name": "Chris Mungall"
+  },
+  "metadata": {
+    "description": "Personal assistant plugins for Google APIs and productivity",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "gogcli",
+      "source": "./plugins/gogcli",
+      "description": "Google APIs CLI (Gmail, Calendar, Tasks, Drive, Docs, Sheets) via gogcli"
+    }
+  ]
+}
