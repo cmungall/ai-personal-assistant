@@ -4,8 +4,7 @@
     "name": "Chris Mungall"
   },
   "metadata": {
-    "description": "Personal assistant plugins for Google APIs and productivity",
-    "pluginRoot": "./plugins"
+    "description": "Personal assistant plugins for Google APIs and productivity"
   },
   "plugins": [
     {
